@@ -1,0 +1,175 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+/*header style*/
+.header{
+	background:#aab6c4; ; 
+	/*#81c3ef;*/
+	padding: 30px;
+}
+#logo{
+	float:left;
+	width: 90px;
+	height: 50px;
+	margin-left: 50px;
+}
+
+#logo img{
+	width: 100%;
+}
+#schoolName {
+	float:right;
+	text-align: center;
+	margin-right: 350px;
+	color:#16507c;
+	font-weight: bold;
+	font-size: 35px;
+}
+
+.clearFloat {
+	clear: both;
+}
+
+ 
+
+.link{
+	color: yellow;
+	background:  #00375e;
+	/*#16507c;*/
+	padding:20px;
+	font-size: 18px;
+}
+
+
+#navigation{
+	list-style-type: none;
+
+}
+#navigation li{
+	display:inline;
+	padding: 30px;
+}
+
+#navigation p{
+	float: right;
+	margin-right: 50px;
+}
+
+#navigation a{
+	color: yellow;
+
+}
+
+/*login area style*/
+.contentWrapper{
+	background: #cddaea;
+	max-width: 1200px;
+	margin: 0 auto;
+	min-height: 300px;
+}
+
+.login-area{
+	background: #ffffff;
+	border-width: 2px;
+	margin: 0 auto;
+	width: 250px;
+	height: 300px;
+	padding: 80px;
+	
+}
+form{
+	background: #ffffff;
+	/*#eae7e7;*/
+	width: 300px;
+	padding: 10px;
+}
+input{
+	background: #eae7e7;
+	width: 250px;
+	padding: 10px;
+}
+
+select{
+	background: #eae7e7;
+	width: 270px;
+	padding: 10px;
+}
+
+button{
+	background: #feda80;
+	width: 130px;
+	padding: 10px;
+	border-radius: 20px;
+	border-color: #feda80;
+}
+.contentWrapper a{
+	float: right;
+	align-content: left;
+	text-align: right;
+
+}
+.clearFloat{
+	clear: both;
+}
+h2{
+	text-align: center;
+}
+
+
+/*footer style*/
+.bottom{
+	background:#000000;
+	min-height: 250px;
+	max-width: 1400px;
+}
+
+.content{
+	background:#000000;
+	min-height: 250px;
+	max-width: 1400px;
+}
+
+#left{
+	float: left;
+	color:blue;
+	font-size: 15px;
+	width: 400px;
+	margin-left: 100px;
+	margin-top: 30px;
+}
+
+#center{
+	float: left;
+	color:blue;
+	font-size: 15px;
+	margin-top: 30px;
+	width: 400px;
+}
+
+#remita{
+	float: left;
+	width: 200px;
+	margin-top: 5px;
+}
+
+#remita img{
+	width: 100%;	
+}
+
+.clearFloat{
+	clear: both;
+}
+
+.align{
+	color: #ffffff;
+	background: #000000;	
+}
+
+.align p{
+	font-weight: bold;
+	margin-left: 100px;
+	margin-bottom: 20px;
+
+}

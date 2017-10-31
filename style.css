@@ -1,0 +1,233 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.container{
+	background: #ffffff;
+	max-width: 1400px;
+	min-height: 1200px;
+
+}
+
+.header{
+	background:#aab6c4; 
+	/*#81c3ef;*/
+	padding: 30px;
+}
+#logo{
+	float:left;
+	width: 90px;
+	height: 50px;
+	margin-left: 50px;
+}
+
+#logo img{
+	width: 100%;
+}
+#schoolName {
+	float:right;
+	text-align: center;
+	margin-right: 350px;
+	color:#16507c;
+	font-weight: bold;
+	font-size: 35px;
+}
+
+.clearFloat {
+	clear: both;
+}
+
+ 
+
+.link{
+	background:  #00375e;
+	/*#16507c;*/
+	padding:20px;
+	font-size: 18px;
+}
+
+#navigation{
+	list-style-type: none;
+
+}
+#navigation li{
+	display:inline;
+	padding: 30px;
+}
+
+#navigation p{
+	float: right;
+	margin-right: 50px;
+}
+
+#navigation a{
+	color: yellow;
+
+}
+
+.section{
+	width: 1200px;
+	height: 250px;
+}
+
+.contentWrapper {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+#image{
+	float:left;
+width:800px;
+height: 300px;
+}
+
+#image img{
+	width: 100%;
+	height: 100%;
+	
+}
+.clearFloat{
+	clear: both;
+}
+
+.selection{
+	float: left;
+	width: 400px;
+	height: 100px;
+}
+
+.topsection{
+	background: #c1c1c1;
+	color: yellow;
+	font-weight: bold;
+	height:60px;
+	width: 400px;
+}
+
+.topsection h2{
+	margin-left: 20px;
+}
+
+#slideText{ 
+	background: #dce2f3;
+	height: 240px;
+}
+
+#slideText h2{
+	color: #000000;
+	font-size: 17px;
+	height: 70px;
+	margin-left: 20px;
+}
+
+#slideText p{
+	color: blue;
+	font-size: 15px;
+	height: 100px;
+	margin-left: 20px;
+	margin-top: 30px;
+}
+.clearFloat{
+	clear: both;
+}
+
+
+.column{
+	background: #cddaea;
+	font-size:15px;
+	max-width: 1200px;
+	min-height: 350px;
+}
+
+.column h2{
+	color: #d4b653;
+	margin-top: 20px;
+}
+
+#column1{
+	float: left;
+	background: #cddaea;
+	color: #0c73b3;
+	width: 370px;
+	margin-left: 15px
+}
+
+#column2{
+	float: left;
+	background: #cddaea;
+	color: #0c73b3;
+	width: 380px
+}
+
+#column3{
+	float: right;
+	background: #cddaea;
+	color: #0c73b3;
+	width: 380px
+	
+}
+
+.clearFloat{
+	clear: both;
+}
+
+em{
+	color: red;
+	font-family: Time New Romans;
+}
+
+.bottom{
+	background:#000000;
+	min-height: 250px;
+	max-width: 1400px;
+}
+
+.content{
+	background:#000000;
+	min-height: 250px;
+	max-width: 1400px;
+}
+
+#left{
+	float: left;
+	color:blue;
+	font-size: 15px;
+	width: 400px;
+	margin-left: 100px;
+	margin-top: 30px;
+}
+
+#center{
+	float: left;
+	color:blue;
+	font-size: 15px;
+	margin-top: 30px;
+	width: 400px;
+}
+
+#remita{
+	float: left;
+	width: 200px;
+	margin-top: 5px;
+}
+
+#remita img{
+	width: 100%;	
+}
+
+.clearFloat{
+	clear: both;
+}
+
+.align{
+	color: #ffffff;
+	background: #000000;	
+}
+
+.align p{
+	font-weight: bold;
+	margin-left: 100px;
+	margin-bottom: 20px;
+
+}

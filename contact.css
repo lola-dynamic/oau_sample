@@ -1,0 +1,145 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+/*header style*/
+.header{
+	background:#aab6c4; 
+	/*#81c3ef;*/
+	padding: 30px;
+}
+#logo{
+	float:left;
+	width: 90px;
+	height: 50px;
+	margin-left: 50px;
+}
+
+#logo img{
+	width: 100%;
+}
+#schoolName {
+	float:right;
+	text-align: center;
+	margin-right: 350px;
+	color:#16507c;
+	font-weight: bold;
+	font-size: 35px;
+}
+
+.clearFloat {
+	clear: both;
+}
+
+ 
+
+.link{
+	color: yellow;
+	background:  #00375e;
+	/*#16507c;*/
+	padding:20px;
+	font-size: 18px;
+}
+
+#navigation{
+	list-style-type: none;
+
+}
+#navigation li{
+	display:inline;
+	padding: 30px;
+}
+
+#navigation p{
+	float: right;
+	margin-right: 50px;
+}
+
+#navigation a{
+	color: yellow;
+
+}
+
+/*information page style*/
+.contentWrapper{
+	background: #cddaea;
+	max-width: 1200px;
+	margin: 0 auto;
+	min-height: 200px;
+	border: 1px solid;
+	border-color:#cddaea;
+}
+
+.contact{
+	height: 100px;	
+	border-color:#ffffff; 
+}
+.contact p{
+	background: #ffffff;
+	color: #337a8e;
+	font-size: 16px;
+	width: 1100px;
+	padding:30px;
+	text-align: center;
+	margin: 0 auto;
+	border: 1px solid;
+
+}
+
+
+/*footer tyle*/
+.bottom{
+	background:#000000;
+	min-height: 250px;
+	max-width: 1400px;
+}
+
+.content{
+	background:#000000;
+	min-height: 250px;
+	max-width: 1400px;
+}
+
+#left{
+	float: left;
+	color:blue;
+	font-size: 15px;
+	width: 400px;
+	margin-left: 100px;
+	margin-top: 30px;
+}
+
+#center{
+	float: left;
+	color:blue;
+	font-size: 15px;
+	margin-top: 30px;
+	width: 400px;
+}
+
+#remita{
+	float: left;
+	width: 200px;
+	margin-top: 5px;
+}
+
+#remita img{
+	width: 100%;	
+}
+
+.clearFloat{
+	clear: both;
+}
+
+.align{
+	color: #ffffff;
+	background: #000000;	
+}
+
+.align p{
+	font-weight: bold;
+	margin-left: 100px;
+	margin-bottom: 20px;
+
+}
